@@ -28,5 +28,3 @@ it is a conclusion of several ways to make calibration for multi-sensors
  个人评价：具有相机IMU标定功能，无lidar-imu标定
  链接地址：https://github.com/ethz-asl/kalibr
 
-熟悉如MDP、POMDP、Game Theory等轨迹预测算法
-熟悉常见路径规划算法(例如A*、D*、RRT等 )或熟悉常用机器学习深度学习算法
