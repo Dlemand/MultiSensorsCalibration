@@ -28,3 +28,7 @@ it is a conclusion of several ways to make calibration for multi-sensors
  个人评价：具有相机IMU标定功能，无lidar-imu标定 \
  链接地址：https://github.com/ethz-asl/kalibr
 
+6. koide3\
+ 个人评价: 小日子发布的非常好用的Lidar-camera标定工具,支持旋转式和固态雷达\
+ 链接地址:https://github.com/koide3/direct_visual_lidar_calibration\
+ 数据要求: rosbag 无需处理,好使!
